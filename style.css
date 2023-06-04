@@ -1,0 +1,130 @@
+body {
+    background-color: white;
+    font-size: 8px;
+}
+
+.center {
+    display: flex;
+    flex-direction: vertical;
+    margin-left: 300px;
+}
+
+
+.create {
+
+    font-style: italic;
+    font-size: 240px;
+}
+
+#middle .create {
+
+    font-size: 20px;
+}
+
+#form-middle {
+
+    padding-left: 120px;
+}
+
+
+#middle {
+    display: flex;
+    flex-direction: row;
+    background-color: lightsteelblue;
+    font-size: 12px;
+
+}
+
+
+
+
+
+#footer {
+    background-color: white;
+
+}
+
+span {
+    color: blue;
+    font-size: initial;
+}
+
+#footer {
+    text-align: center;
+
+}
+
+.foot {
+    font-size: bold;
+    font-style: cursive;
+    font-weight: lighter;
+
+}
+
+
+hr {
+    width: 50%;
+    text-align: center;
+    color: grey;
+    height: 1px;
+}
+
+.Sign-Up {
+    color: white;
+    font-family: cursive;
+    background-color: green;
+    padding: 6px 3px;
+    border-color: green;
+    height: 40px;
+    width: 15em;
+}
+
+button {
+    color: white;
+    font-family: cursive;
+    background-color: blue;
+
+    border-color: blue;
+
+}
+
+.lettering {
+    margin-left: 20%;
+}
+
+.header {
+    background-color: rgb(0, 0, 140);
+    color: white;
+    font-size: 12px;
+}
+
+
+.header h3 {
+
+    font-size: 35px;
+    font-weight: lighter;
+    font-family: sans-serif;
+    font-style: normal;
+    text-align: center;
+    width: 50%;
+    position: absolute;
+    top: 1px;
+    font-weight: bold;
+}
+
+table {
+
+
+    top: 20px;
+    margin-left: 750px;
+    color: white;
+
+}
+
+#form-middle h1 {
+    font-size: 30px;
+}
+
+#lettering {
+    margin-left: 150px;
+}
